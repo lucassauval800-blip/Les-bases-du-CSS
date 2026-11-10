@@ -1,0 +1,20 @@
+div {
+    background-color: blue;
+
+}
+
+div p {
+    background-color: yellow;
+}
+
+.paragraphe {
+    background-color: orange;
+}
+
+.marge-externe {
+    margin: 40px;
+}
+
+.marge-interne {
+    padding: 40px;
+}
